@@ -2831,7 +2831,7 @@
     }
 
     .main-menu__right {
-        display: none;
+        display: flex;
     }
 
     .main-menu__search-cart-box {

@@ -16,7 +16,8 @@
 
 .brand-one__single {
     position: relative;
-    display: block;
+    display: flex;
+    height: 200px;
     text-align: center;
     z-index: 1;
 }
